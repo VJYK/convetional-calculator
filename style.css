@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    background-color: blue;
+    color:#fff;
+    margin: 30px;
+    padding: 50px;
+}
+section{
+    border:2px solid blueviolet;
+    text-align: center;
+    padding: 50px;
+    margin: 30px;
+    padding: 50px;
+}
+#cal-action{
+    padding: 15px;
+    
+}
+#btn-add{
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+}
+
+#btn-sub{
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+}
+
+#btn-mul{
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+}
+
+#btn-div{
+    padding: 10px;
+    background-color: blue;
+    color: #fff;
+}
+#results{
+    text-align: center;
+}
+input{
+    width:70%;
+}
